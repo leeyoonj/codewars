@@ -6,3 +6,4 @@ function squareSum(numbers){
       return (n*n) + sum;
     }, 0)
   }
+  
