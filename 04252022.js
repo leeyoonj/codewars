@@ -13,7 +13,7 @@ OR
 const reverseWords = (str) => str.split(" ").reverse().join(" ");
 
 
-// Another solution:
+/* Another solution: */
 
 function reverseWords(str){
     let reverse = [];
